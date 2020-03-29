@@ -201,5 +201,11 @@ display.unlimited.screen.volume.output[5][6]
 display.unlimited.screen.perspective.input[1][2]
 display.unlimited.screen.performance.hidden[3][4]
 display.unlimited.screen.perspective.output[5][6]
+display.unlimited.screen.height.input[1][2]
+display.unlimited.screen.height.hidden[3][4]
+display.unlimited.screen.height.output[5][6]
+display.unlimited.screen.width.input[1][2]
+display.unlimited.screen.width.hidden[3][4]
+display.unlimited.screen.width.output[5][6]
 
 
