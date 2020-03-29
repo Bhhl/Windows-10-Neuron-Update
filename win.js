@@ -132,5 +132,11 @@ improvement.windows.applications.performance.output[5][6]
 improvement.wifi.signal.input[1][2]
 improvement.wifi.signal.hidden[3][4]
 improvement.wifi.signal.output[5][6]
+net.fixing.hight.ping.input[1][2]
+net.fixing.hight.ping.hidden[3][4]
+net.fixing.hight.ping.output[5][6]
+net.fixing.ping.input[1][2]
+net.fixing.ping.hidden[3][4]
+net.fixing.ping.output[5][6]
 
 
