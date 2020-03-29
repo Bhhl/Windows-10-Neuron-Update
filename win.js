@@ -129,5 +129,8 @@ classical.applications.fixing.waiting.output[5][6]
 improvement.windows.applications.performance.input[1][2]
 improvement.windows.applications.performance.hidden[3][4]
 improvement.windows.applications.performance.output[5][6]
+improvement.wifi.signal.input[1][2]
+improvement.wifi.signal.hidden[3][4]
+improvement.wifi.signal.output[5][6]
 
 
