@@ -180,5 +180,8 @@ system.drivers.performance.improvement.output[5][6]
 fixing.broken.system.drivers.input[1][2]
 fixing.broken.system.drivers.hidden[3][4]
 fixing.broken.system.drivers.output[5][6]
+display.unlimited.screen.resolution.input[1][2]
+display.unlimited.screen.resolution.hidden[3][4]
+display.unlimited.screen.resolution.output[5][6]
  
 
