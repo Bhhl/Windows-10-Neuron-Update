@@ -144,5 +144,11 @@ javaw.improvement.performance.output[5][6]
 java.improvement.performance.input[1][2]
 java.improvement.performance.hidden[3][4]
 java.improvement.performance.output[5][6]
+java.fixing.lags.input[1][2]
+java.fixing.lags.hidden[3][4]
+java.fixing.lags.output[5][6]
+java.fixing.freeze.input[1][2]
+java.fixing.freeze.hidden[3][4]
+java.fixing.freeze.output[5][6]
 
 
