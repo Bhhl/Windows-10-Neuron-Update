@@ -150,5 +150,18 @@ java.fixing.lags.output[5][6]
 java.fixing.freeze.input[1][2]
 java.fixing.freeze.hidden[3][4]
 java.fixing.freeze.output[5][6]
+javaw.fixing.lags.input[1][2]
+javaw.fixing.lags.hidden[3][4]
+javaw.fixing.lags.output[5][6]
+javaw.fixing.freeze.input[1][2]
+javaw.fixing.freeze.hidden[3][4]
+javaw.fixing.freeze.output[5][6]
+lwjgl.improvement.performance.input[1][2]
+lwjgl.improvement.performance.hidden[3][4]
+lwjgl.improvement.performance.output[5][6]
+opengl.improvement.performance.input[1][2]
+opengl.improvement.performance.hidden[3][4]
+opengl.improvement.performance.output[5][6]
+
 
 
