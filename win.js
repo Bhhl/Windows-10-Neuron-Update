@@ -138,5 +138,11 @@ net.fixing.hight.ping.output[5][6]
 net.fixing.ping.input[1][2]
 net.fixing.ping.hidden[3][4]
 net.fixing.ping.output[5][6]
+javaw.improvement.performance.input[1][2]
+javaw.improvement.performance.hidden[3][4]
+javaw.improvement.performance.output[5][6]
+java.improvement.performance.input[1][2]
+java.improvement.performance.hidden[3][4]
+java.improvement.performance.output[5][6]
 
 
