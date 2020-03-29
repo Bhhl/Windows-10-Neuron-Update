@@ -210,5 +210,11 @@ display.unlimited.screen.width.output[5][6]
 display.unlimited.screen.color.input[1][2]
 display.unlimited.screen.color.hidden[3][4]
 display.unlimited.screen.color.output[5][6]
+display.unlimited.screen.quality.input[1][2]
+display.unlimited.screen.quality.hidden[3][4]
+display.unlimited.screen.quality.output[5][6]
+display.unlimited.screen.definition.input[1][2]
+display.unlimited.screen.definition.hidden[3][4]
+display.unlimited.screen.definition.output[5][6]
 
 
