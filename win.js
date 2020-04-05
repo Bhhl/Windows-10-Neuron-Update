@@ -216,5 +216,30 @@ display.unlimited.screen.quality.output[5][6]
 display.unlimited.screen.definition.input[1][2]
 display.unlimited.screen.definition.hidden[3][4]
 display.unlimited.screen.definition.output[5][6]
-
-
+display.color.hdr.input[1][2]
+display.color.hdr.hidden[3][4]
+display.color.hdr.output[5][6]
+neuron.world
+function = f(x)
+function = f(y)
+function = f(z)
+function = f(x1)
+function = f(x2)
+function = f(x3)
+function = Neuron_World
+function = neurons_generation
+system.repairing
+system.neuronical.generation
+system.neuron.net
+net.neuron.net
+display.neuron.net
+repaired.system.performance
+neuron.world.generation
+neuron.world.optimizing
+neuron.world.network
+neuron.world.net
+disabling.system.ping function f(x)
+disabling.system.low function f(x)
+disabling.net.ping function f(x)
+repaired.system.interface function f(x)
+module.activated f(x)

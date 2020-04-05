@@ -1,0 +1,179 @@
+{[test]}
+
+{[Windows_Optimizing_Performance]}
+{[WiFi_optimizing_signal]}
+{[Windows_optimizing_CPU]}
+{[Windows_optimizing_GPU]}
+{[Windows_optimizing_RAM]}
+{[Windows_OpenPerformance]}
+{[Activate_Windows_OpenPerformance]}
+{[Activate_Windows_UnlimitedPerformance]}
+{[Activate_Windows_OpenCPU]}
+{[OpenCPU_optimizing_Windows_work]}
+{[OpenCPU_unlimited_CPU_cores]}
+{[OpenCPU_realtime_windows_performance]}
+{[OpenCPU_generated_infinite_CPU_cores]}
+{[Activate_Windows_OpenWlan]}
+{[OpenWlan_optimizing_WiFi_downloading_speed]}
+{[OpenWlan_optimizing_WiFi_uploading_speed]}
+{[OpenWlan_optimizing_WiFi_ping]}
+{[OpenWlan_downing_WiFi_ping]}
+{[OpenWlan_fixing_WiFi_hight_ping]}
+{[OpenWlan_fixing_WiFi_poor_connection]}
+{[OpenWlan_fixing_WiFi_poor_performance]}
+{[OpenWlan_fixing_WiFi_dotnet]}
+{[OpenWlan_fixing_WiFi_poor_speed]}
+{[OpenCPU_fixing_poor_CPU_performance]}
+{[OpenCPU_fixing_poor_CPU_speed]}
+{[OpenCPU_fixing_poor_CPU_cores]}
+{[OpenCPU_fixing_poor_massives]}
+{[OpenCPU_fixing_poor_computing]}
+{[Activate_Windows_OpenAi]}
+{[OpenAi_optimizing_AI_work]}
+{[OpenAi_realtime_ai_working]}
+{[OpenAi_optimizing_Windows_performance]}
+{[OpenAi_optimizing_Internet_performance]}
+{[OpenAi_optimizing_internet_antivirus]}
+{[OpenAi_optimizing_internet_speed]}
+{[OpenAi_optimizing_internet_connection]}
+{[OpenAi_optimizing_internet_downloading_speed]}
+{[OpenAi_optimizing_internet_uploading_speed]}
+{[OpenAi_optimizing_browser_performance]}
+{[OpenAi_optimizing_browser_connection]}
+{[OpenAi_optimizing_browser_speed]}
+{[OpenAi_optimizing_chromium_performance]}
+{[OpenAi_optimizing_chromium_connection]}
+{[OpenAi_optimizing_chromium_speed]}
+{[Activate_TerminatorAi]}
+{[TerminatorAi_fixing_computer_performance]}
+{[TerminatorAi_fixing_low_windows_performance]}
+{[TerminatorAi_fixing_WindowsNT_performance]}
+{[TerminatorAi_connect_to_internet]}
+{[TerminatorAi_connect_to_WiFi]}
+{[TerminatorAi_connect_to_darknet]}
+{[TerminatorAi_connect_to_webnet]}
+{[TerminatorAi_realtime_vpn_speed]}
+[{TerminatorAi_optimizing_performance]}
+[{TerminatorAi_optimizing_darknet]}
+
+[{Test2}]
+[{Test3}]
+{[CPU_input = 10]}
+{[CPU_output = 1]}
+{[CPU_performance_training_size = 0.0998]}
+{[WiFi_signal_training_size = 0.0906]}
+{[Alternate_technology_for_wifi]}
+{[Alternate_technology_for_cpu]}
+{[WWan_input = 10]}
+{[WWan_output = 10]}
+{[Wwan_training_size = 0.1000]}
+{[Alternate_WWan_technology]}
+{[WWan_mode_IEEE = 1109.001]}
+{[Alternate_CPU_technology]}
+{[WWan_osi_mode_physical]}
+{[WWan_osi_version = 4.0]}
+{[WWan_speed = 0.1984mbpbs]}
+{[Wwan_connection = 0.1984]}
+{[Wwan_ping_set = 0.0000ms]}
+{[Wwan_connection = 0.1000]}
+{[Wwan_speed = 0.1000mbps]}
+[{Wwan_speed = 0.0300mps]}
+[{Wwan_connection = 0.0300]}
+[{Wwan_speed = 0.1500mbps]}
+[{Wwan_connection = 0.1500mbps]}
+{[Wwan_speed = 0.1000mbps]}
+[{Wwan_connection = 0.1000]}
+[{Wwan_speed = 0.1000tbps]}
+[{Wwan_connection = 0.5000}]
+{[Wwan_connection = 0.10000}]
+{[Wwan_connection = 0.01000}]
+{[Wwan_speed = 0.01000tbps}]
+{[CPU_performance = 0.0100000Ghz]}
+{[GPU_performance = 0.0100000Ghz]}
+{[RAM_performance = 0.0100000Ghz]}
+{[CPU_performance = 0.0100000Ghz]}
+{[GPU_performance = 0.0100000Ghz]}
+{[RAM_performance = 0.0100000Ghz]}
+{[Wwan_speed = 0.0100000tbps]}
+{[Wwan_connection = 0.0100000]}
+{[DNS_server_speed = 0.0100000tbps]}
+{[DNS_server_connection  = 0.0100000]}
+{[Wwan_stable = 0.0100000}]
+{[Physical_OSI_speed = 0.0100000tbps]}
+{[Physical_OSI_connection = 0.0100000]}
+{[Chromium_black_cubes_fix = 0.010000]}
+{[Chromium_black_images_fix = 0.0100000]}
+{[Chromium_open_internet = 0.0100000]}
+{[Chromium_training_size = 0.0100000]}
+{[Chromium_speed = 0.0100000tbps]}
+{[Chromium_connection = 0.0100000]}
+{[Chromium_performance = 0.0100000]}
+{[WiFi_signal = 0.0100000db]}
+{[Physical_OSI_synchronization = 0.0100000]}
+{[Chromium_Synchronization = 0.0100000]]
+{[Wwan_synchronization = 0.0100000]}
+{[WiFi_synchronization = 0.0100000]}
+{[Applications_performance = 0.0100000]}
+{[Applications_speed = 0.0100000]}
+{[Applications_framerate = 0.0100000]}
+{[Applications_ping = 0.0000ms]}
+{[Physical_OSI_teleport = 0.0100000]}
+{[Chromium_white_images_fix = 0.0100000]}
+{[Chromium_teleport = 0.0100000]}
+{[Wwan_teleport = 0.0100000]}
+{[WiFi_teleport = 0.0100000]}
+{[Chromium_lags_fix = 0.0100000]}
+{[Chromium_invisible_images_fix = 0.0100000]}
+{[Chromium_images_fix = 0.0100000]}
+{[Chromium_videos_fix = 0.0100000]}
+{[Chromium_files_fix = 0.0100000]}
+{[Physical_OSI_files_fix = 0.0100000]}
+{[CPU_hight_load_fix = 0.0100000]}
+{[RAM_hight_load_fix = 0.0100000]}
+{[GPU_hight_load_fix = 0.0100000]}
+{[Jawaw_ping = 0.0000ms]}
+{[Jawaw_speed = 0.0100000tbps]}
+{[Jawaw_connection = 0.0100000]}
+{[Jawaw_performance = 0.0100000]}
+{[WiFi_mode = IEEE 802.11ax]}
+{[WiFi_connection = 1000]}
+{[Activate_WiFi_OFDMA]}
+{[Activate_WiFi_MU_MIMO]}
+{[Activate_WiFi_MiMo]}
+{[Activate_WiFi_6]}
+{[Activate_WiFi_6E]}
+{[Activate_WiFi_5Ghz]}
+{[Activate_WiFi_5EGhz]}
+[[Activate_WiFi_6EG]}
+{[Activate_WiFi_Connection_6E6G]}
+{[Activate_WiFi_speed_6E6G]}
+{[Activate_WiFi_6E6G]}
+{[Activate_CPU_hight_performance_9E5H]}
+{[Activate_CPU_hight_performance_9A2G]}
+{[CPU_freeze_fix_U4A8]}
+{[Activate_CPU_infinite_performance_P1O2]}
+{[Activate_WiFi_infinite_connection_I0F3]}
+{[Activate_WiFi_infinite_speed_W0F4I5S9]}
+{[Activate_CPU_infinite_core_I3C5]}
+{[Activate_RAM_infinite_performance_R4A9]}
+{[Activate_GPU_infinite_performance_G9I2P5]}
+{[Activate_WiFi_infinite_G_W8F2]}
+{[Activate_WiFi_infinite_bandwidth_W5F1]}
+{[Activate_WiFi_hight_signal_W5F1]}
+{[Activate_WiFi_signal_stabilizer_S6B2]}
+{[Activate_WiFi_infinite_performance_W6V7]}
+{[Chromium_image_auto_upscale_C6H2]}
+{[Chromium_text_autoimprove_A8I5]}
+{[Activate_ChromiumAi_C8A1]}
+{[Activate_WiFi_modulation_type_M2G5 = 16384-QAM]}
+{[Activate_WiFi_modulation_type_T4PE2 = GMUA]}
+{{Optimizing_WiFi_modulation_CA3GA]}
+{[Optimizing_CPU_modulation_4A4G]}
+{[Optimizing_GPU_modulation_6X1S]}
+{[Optimizing_RAM_modulation_MA4D5E]}
+
+
+
+
+
+ 
